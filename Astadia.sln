@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1FBD4EC2-1290-8528-1897-AADF6C446839}") = "Astadia", "Assembly-CSharp-firstpass.csproj", "{A8962D2D-E42A-6D1D-5D1F-DC2F7E6BB2BE}"
+EndProject
+Project("{1FBD4EC2-1290-8528-1897-AADF6C446839}") = "Astadia", "Assembly-CSharp.csproj", "{F75E6437-295D-E66D-366E-7FC8E27A9BD1}"
+EndProject
+Project("{1FBD4EC2-1290-8528-1897-AADF6C446839}") = "Astadia", "Assembly-CSharp-Editor.csproj", "{8AA620DF-211E-C777-A81E-8AD66CBA66F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8962D2D-E42A-6D1D-5D1F-DC2F7E6BB2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8962D2D-E42A-6D1D-5D1F-DC2F7E6BB2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8962D2D-E42A-6D1D-5D1F-DC2F7E6BB2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8962D2D-E42A-6D1D-5D1F-DC2F7E6BB2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75E6437-295D-E66D-366E-7FC8E27A9BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75E6437-295D-E66D-366E-7FC8E27A9BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75E6437-295D-E66D-366E-7FC8E27A9BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75E6437-295D-E66D-366E-7FC8E27A9BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA620DF-211E-C777-A81E-8AD66CBA66F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA620DF-211E-C777-A81E-8AD66CBA66F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA620DF-211E-C777-A81E-8AD66CBA66F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA620DF-211E-C777-A81E-8AD66CBA66F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
